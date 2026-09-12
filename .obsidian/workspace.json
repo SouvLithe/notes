@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a7775288f64731d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d245720aeddff55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1699d04a46c2094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "140Go/Golang-odd.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang-odd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d046d02262796f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d947ef4a15e5289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bc76a7f0b884f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "af5332336df93f4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dc65786b985b3f7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "403de3f0eb8d8857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "140Go/Golang-odd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang-odd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e89bc49c0a9ea3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1084faadb3b89575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd58421e95e7d65f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "430哲学/存粹理性批判.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "存粹理性批判 的反向链接列表"
+            }
+          },
+          {
+            "id": "d8b2a8ea131c2167",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "430哲学/存粹理性批判.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "存粹理性批判 的出链列表"
+            }
+          },
+          {
+            "id": "8d646f1df8e2aca3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8381d89fa953b452",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "310Java框架/SpringCloud.pro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SpringCloud.pro 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b1699d04a46c2094",
+  "lastOpenFiles": [
+    "attchment/Pasted image 20260911201304.png",
+    "attchment/Pasted image 20260911195933.png",
+    "attchment/Pasted image 20260911194916.png",
+    "attchment/Pasted image 20260911193638.png",
+    "attchment/Pasted image 20260911194248.png",
+    "attchment/Pasted image 20260911175057.png",
+    "attchment/Pasted image 20260911170134.png",
+    "attchment/Pasted image 20260911165335.png",
+    "attchment/Pasted image 20260911144859.png",
+    "attchment/Pasted image 20260911140611.png",
+    "attchment/Pasted image 20260911154120.png",
+    "attchment",
+    "README.md",
+    "140Go/Golang.md",
+    "140Go/Go.md",
+    "140Go/Golang-odd.md",
+    "000思路/DDIA.md",
+    "140Go/纤程.md",
+    "140Go/Go 语言设计与实现.md",
+    "200前端/前端工程化.md",
+    "120.C&Cpp/C语言.md",
+    "120.C&Cpp/C和指针.md",
+    "110硬件/计组.md",
+    "draft.md",
+    "150Python&AI/置身钉内.md",
+    "400社科-社会学/想象的共同体.md",
+    "900Odds/字符编码.md",
+    "question.md",
+    "430哲学/存在与时间.md",
+    "010项目/blog.md",
+    "430哲学/存粹理性批判.md",
+    "010项目/fake b.md",
+    "130Java/Java Web.md",
+    "130Java/JAVA语法-01 CS基础.md",
+    "130Java/java.md",
+    "010项目/note.md",
+    "密码配置.md",
+    "160AI",
+    "300中间件/04ES",
+    "010项目",
+    "150Python&AI",
+    "000思路",
+    "411-历史",
+    "440新闻媒体",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

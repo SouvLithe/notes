@@ -1,0 +1,2 @@
+make是git的插件
+您可以通过创建自定义Makefile为make定义更多目标。
